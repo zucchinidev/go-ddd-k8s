@@ -1,5 +1,5 @@
-I like the idea of the dev team give the ops team a sort of blueprint of the project,
-so they can run it the way they want to.
+I like the idea of the dev team gives the ops team a sort of blueprint of the project,
+so they can run it the way they want to. Let's talk about the project structure with this in mind. 
 
 ## Project Structure
 
